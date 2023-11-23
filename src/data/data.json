@@ -1,0 +1,33 @@
+{
+  "Title": "1 bed 1 bathroom – House",
+  "Price": "$1,150 / Month",
+  "Location": "Thunder Bay, ON",
+  "ListedOn": "Listed 5 days ago · Available 2023/12/01",
+  "UnitDetails": [
+    "1 bed · 1 bath",
+    "Laundry available",
+    "Parking available",
+    "Unfurnished",
+    "Rental Location"
+  ],
+  "Description": "See less",
+  "WalkScore": [
+    "Most errands require a car.",
+    "Transit Score®︎"
+  ],
+  "TransitScore": [
+    "A few nearby public transportation options.",
+    "Bike Score®︎"
+  ],
+  "BikeScore": [
+    "Some bike infrastructure.",
+    "Nearby Transit"
+  ],
+  "NearByTransit": [
+    "Routes: 8, 10",
+    "219 ft",
+    "Edward & Ward"
+  ],
+  "SellerName": "Thunder Bay",
+  "WhenJoined": "64 km"
+}
