@@ -1,2 +1,3 @@
-2023/11/22-19:31:09.642 1347c Creating DB /home/dany/Documents/Code/repos/HackatonFBbot/src/chrome-files/Default/shared_proto_db since it was missing.
-2023/11/22-19:31:09.669 1347c Reusing MANIFEST /home/dany/Documents/Code/repos/HackatonFBbot/src/chrome-files/Default/shared_proto_db/MANIFEST-000001
+2023/11/22-19:40:18.626 13fbd Reusing MANIFEST /home/dany/Documents/Code/repos/HackatonFBbot/src/chrome-files/Default/shared_proto_db/MANIFEST-000001
+2023/11/22-19:40:18.627 13fbd Recovering log #3
+2023/11/22-19:40:18.627 13fbd Reusing old log /home/dany/Documents/Code/repos/HackatonFBbot/src/chrome-files/Default/shared_proto_db/000003.log 
