@@ -9,7 +9,7 @@ async function scrapeFB(url){
     const context = await chromium.launchPersistentContext("./chrome-files",{
         headless: true,
     })
-    await context.setDefaultTimeout(5000)
+    // await context.setDefaultTimeout(10000)
     const page = await context.newPage()
     await page.goto(url)
 
@@ -49,7 +49,7 @@ async function scrapeFB(url){
     })
     await context.close()
     fs.writeFileSync('./data.txt', JSON.stringify(text))
-    createEnties(text)
+    return createEnties(text)
 }
 
 

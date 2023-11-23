@@ -1,55 +1,56 @@
 {
-  "Title": "Private room for rent",
-  "Price": "$665 / Month",
+  "Title": "1 bed 1 bathroom – House",
+  "Price": "$1,150 / Month",
   "Location": "Thunder Bay, ON",
-  "ListedOn": "Listed over a week ago · Available 2024/01/01",
+  "ListedOn": "Listed 6 days ago · Available 2023/12/01",
   "UnitDetails": [
     "Unit Details",
-    "Apartment",
-    "3 beds · 1 bath",
-    "Central AC",
-    "Central heating",
-    "In-unit laundry",
+    "House",
+    "1 bed · 1 bath",
+    "Laundry available",
     "Parking available",
-    "Furnished",
-    "1 month Lease",
-    "2 persons live here",
-    "Cable TV",
-    "Dishwasher"
+    "Unfurnished"
   ],
   "Description": [
-    "All inclusive. One bedroom available in a 3 bedroom, 1 bath apartment. Furnished room. FEMALES ONLY.",
-    "5mins drive to LU campus. Bus stop just across. Available JAN 1st"
+    "Accommodation available for couple or two boys or two girls  from 1st December",
+    "One full basement unit fully furnished (room kitchen big living room wasroom laundry)",
+    "Inhouse laundry (free) accessible anytime",
+    "Bus stop is infront of home",
+    "Bus routes(10,8,5)",
+    "Near to confederation college",
+    "Rent 1150 plus wifi if you need (14.5$)",
+    "Dm for more info",
+    "Thanks"
   ],
   "WalkScore": [
-    "93 out of 100",
-    "Daily errands do not require a car."
+    "42 out of 100",
+    "Most errands require a car."
   ],
   "TransitScore": [
-    "49 out of 100",
+    "36 out of 100",
     "A few nearby public transportation options."
   ],
   "BikeScore": [
-    "82 out of 100",
-    "Biking is convenient for most trips."
+    "63 out of 100",
+    "Some bike infrastructure."
   ],
   "NearByTransit": [
     [
-      "Algoma & Bay",
-      "Routes: 11, 13, 3M",
-      "120 ft"
+      "James & 400s Block",
+      "Routes: 8, 10",
+      "219 ft"
     ],
     [
-      "Court & Bay",
-      "Routes: 1, 2",
-      "584 ft"
+      "Edward & Ward",
+      "Routes: 5",
+      "2,596 ft"
     ],
     [
-      "Red River & St. Patrick's Square",
-      "Routes: 3C, 3J",
-      "2,251 ft"
+      "Victoria & 200s Block",
+      "Routes: 14",
+      "3,759 ft"
     ]
   ],
-  "SellerName": "Sharanya Yadava",
-  "WhenJoined": "( 5"
+  "SellerName": "Mazher Syed",
+  "WhenJoined": "Joined Facebook in 2022"
 }
